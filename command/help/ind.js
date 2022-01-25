@@ -39,11 +39,11 @@ exports.err = () =>{
 	return`⚠️ Fitur ini sedang eror !`
 	}
 exports.group = () =>{
-	return`🙅‍♀️ Command khusus di dalam group`
+	return`🥱 Command khusus di dalam group`
 	}
 
 exports.wait = () =>{
-	return`⏳ Sedang di proses ~`
+	return`⚡ Sedang di proses ~`
 	}
 exports.ok = () =>{
 	return` ✅ Oke done ~`
